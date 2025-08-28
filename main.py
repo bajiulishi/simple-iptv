@@ -152,7 +152,6 @@ def set_group_title(metadata, group_title):
     # 首先移除所有现有的group-title属性（包括单引号和双引号）
     metadata = re.sub(r'group-title=[\'"][^\'"]*[\'"]', '', metadata)
 
-    # 清理多余的空格
     metadata = re.sub(r'\s+', ' ', metadata).strip()
 
     # 在逗号前添加新的group-title属性
