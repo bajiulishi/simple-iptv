@@ -4,6 +4,8 @@
 #EXT-X-SUB-URL https://itv.aptv.app/china-iptv/jsyd.m3u
 
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视频道",CCTV1
+http://101.35.240.114:88/live.php?id=CCTV1
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视频道",CCTV1
 http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视频道",CCTV2
 http://ott.mobaibox.com/PLTV/3/224/3221228094/index.m3u8
