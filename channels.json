@@ -147,7 +147,26 @@
         "PBS HD",
         "CRAVE 1 HD",
         "CTV Montreal HD",
-        "ITV2 HD"
+        "Discovery Science",
+        "Discovery Channel",
+        "DISCOVERY FAMILY CHANNEL",
+        "DISCOVERY LIFE",
+        "Discovery History",
+        "DISNEY XD",
+        "DISNEY CHANNEL",
+        "Disney Junior",
+        "ITV2 HD",
+        "AsharqDiscovery.sa",
+        "KTV.kr",
+        "QVC.jp",
+        "NHKWorldJapan.jp"
+      ]
+    },
+    {
+      "group_title": "宗教频道",
+      "channels": [
+        "GCNAmerica.us",
+        "ChristianYouthChannelCYC.us"
       ]
     }
   ]
