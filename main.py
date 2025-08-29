@@ -113,7 +113,7 @@ def load_sources():
 
 def is_channel_match(channel_name, metadata):
     """
-    精确匹配频道名称
+    精确匹配频道名称（忽略大小写）
     匹配规则（按优先级排序）：
     1. 检查tvg-id属性是否匹配频道名称
     2. 检查tvg-name属性是否匹配频道名称
@@ -121,39 +121,39 @@ def is_channel_match(channel_name, metadata):
     4. 避免部分匹配（如"CCTV1"不应匹配"CCTV10"）
     """
     # 1. 匹配tvg-id属性（最高优先级）
-    tvg_id_match = re.search(r'tvg-id="([^"]*)"', metadata)
+    tvg_id_match = re.search(r'tvg-id="([^"]*)"', metadata, re.IGNORECASE)
     if tvg_id_match:
         tvg_id = tvg_id_match.group(1)
-        # 精确匹配tvg-id
-        if tvg_id == channel_name:
+        # 精确匹配tvg-id（使用正则忽略大小写）
+        if re.fullmatch(re.escape(channel_name), tvg_id, re.IGNORECASE):
             return True
         # 检查tvg-id是否包含频道名称（但避免部分匹配）
-        if re.search(rf'\b{re.escape(channel_name)}\b', tvg_id):
+        if re.search(rf'\b{re.escape(channel_name)}\b', tvg_id, re.IGNORECASE):
             return True
 
     # 2. 匹配tvg-name属性
-    tvg_name_match = re.search(r'tvg-name="([^"]*)"', metadata)
+    tvg_name_match = re.search(r'tvg-name="([^"]*)"', metadata, re.IGNORECASE)
     if tvg_name_match:
         tvg_name = tvg_name_match.group(1)
-        # 精确匹配tvg-name
-        if tvg_name == channel_name:
+        # 精确匹配tvg-name（使用正则忽略大小写）
+        if re.fullmatch(re.escape(channel_name), tvg_name, re.IGNORECASE):
             return True
         # 检查tvg-name是否包含频道名称（但避免部分匹配）
-        if re.search(rf'\b{re.escape(channel_name)}\b', tvg_name):
+        if re.search(rf'\b{re.escape(channel_name)}\b', tvg_name, re.IGNORECASE):
             return True
 
     # 3. 匹配元数据末尾的频道名称（逗号后的部分）
     if ',' in metadata:
         display_name = metadata.split(',')[-1].strip()
-        # 精确匹配显示名称
-        if display_name == channel_name:
+        # 精确匹配显示名称（使用正则忽略大小写）
+        if re.fullmatch(re.escape(channel_name), display_name, re.IGNORECASE):
             return True
         # 检查显示名称是否包含频道名称
-        if re.search(rf'\b{re.escape(channel_name)}\b', display_name):
+        if re.search(rf'\b{re.escape(channel_name)}\b', display_name, re.IGNORECASE):
             return True
 
     # 4. 在整个元数据中搜索（作为最后的手段）
-    if re.search(rf'\b{re.escape(channel_name)}\b', metadata):
+    if re.search(rf'\b{re.escape(channel_name)}\b', metadata, re.IGNORECASE):
         return True
 
     return False
