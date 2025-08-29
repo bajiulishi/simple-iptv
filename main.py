@@ -57,28 +57,42 @@ def load_json_data(filename):
 
 
 def load_channels():
-    """加载频道列表并保留原始顺序"""
+    """加载频道列表并保留原始顺序，同时检测重复频道"""
     channels_data = load_json_data('channels.json')
     if not channels_data:
         print("❌ 没有找到有效的频道列表或格式错误")
-        return None, None
+        return None, None, None
 
     # 支持新格式（分组结构）
     if 'channel_groups' in channels_data:
         channel_list = []
         channel_to_group = {}  # 频道到分组的映射
+        duplicate_channels = defaultdict(list)  # 记录重复频道及其所在分组
 
         for group in channels_data['channel_groups']:
             group_title = group['group_title']
             for channel in group['channels']:
                 channel_list.append(channel)
+                # 检查是否已经存在该频道
+                if channel in channel_to_group:
+                    duplicate_channels[channel].append(group_title)
                 channel_to_group[channel] = group_title
 
+        # 打印重复频道报告
+        if duplicate_channels:
+            print("\n⚠️ 发现重复频道:")
+            for channel, groups in duplicate_channels.items():
+                original_group = channel_to_group[channel]
+                all_groups = [original_group] + groups
+                print(f"  频道 '{channel}' 出现在多个分组: {', '.join(all_groups)}")
+        else:
+            print("\n✅ 没有发现重复频道")
+
         print(f"需要查找的频道 ({len(channel_list)})")
-        return channel_list, channel_to_group
+        return channel_list, channel_to_group, duplicate_channels
 
     print("❌ 频道列表格式错误")
-    return None, None
+    return None, None, None
 
 
 def load_sources():
@@ -95,6 +109,54 @@ def load_sources():
 
     print(f"\n可用的源 ({len(sources)})")
     return sources
+
+
+def is_channel_match(channel_name, metadata):
+    """
+    精确匹配频道名称
+    匹配规则（按优先级排序）：
+    1. 检查tvg-id属性是否匹配频道名称
+    2. 检查tvg-name属性是否匹配频道名称
+    3. 检查频道名称是否在元数据末尾（逗号后的部分）
+    4. 避免部分匹配（如"CCTV1"不应匹配"CCTV10"）
+    """
+    # 1. 匹配tvg-id属性（最高优先级）
+    tvg_id_match = re.search(r'tvg-id="([^"]*)"', metadata)
+    if tvg_id_match:
+        tvg_id = tvg_id_match.group(1)
+        # 精确匹配tvg-id
+        if tvg_id == channel_name:
+            return True
+        # 检查tvg-id是否包含频道名称（但避免部分匹配）
+        if re.search(rf'\b{re.escape(channel_name)}\b', tvg_id):
+            return True
+
+    # 2. 匹配tvg-name属性
+    tvg_name_match = re.search(r'tvg-name="([^"]*)"', metadata)
+    if tvg_name_match:
+        tvg_name = tvg_name_match.group(1)
+        # 精确匹配tvg-name
+        if tvg_name == channel_name:
+            return True
+        # 检查tvg-name是否包含频道名称（但避免部分匹配）
+        if re.search(rf'\b{re.escape(channel_name)}\b', tvg_name):
+            return True
+
+    # 3. 匹配元数据末尾的频道名称（逗号后的部分）
+    if ',' in metadata:
+        display_name = metadata.split(',')[-1].strip()
+        # 精确匹配显示名称
+        if display_name == channel_name:
+            return True
+        # 检查显示名称是否包含频道名称
+        if re.search(rf'\b{re.escape(channel_name)}\b', display_name):
+            return True
+
+    # 4. 在整个元数据中搜索（作为最后的手段）
+    if re.search(rf'\b{re.escape(channel_name)}\b', metadata):
+        return True
+
+    return False
 
 
 def find_channels(sources, channel_list):
@@ -150,54 +212,6 @@ def find_channels(sources, channel_list):
     missing_channel_list = [ch for ch in channel_list if ch not in found_channels]
 
     return found_channel_urls, channel_metadata_map, missing_channel_list
-
-
-def is_channel_match(channel_name, metadata):
-    """
-    精确匹配频道名称
-    匹配规则（按优先级排序）：
-    1. 检查tvg-id属性是否匹配频道名称
-    2. 检查tvg-name属性是否匹配频道名称
-    3. 检查频道名称是否在元数据末尾（逗号后的部分）
-    4. 避免部分匹配（如"CCTV1"不应匹配"CCTV10"）
-    """
-    # 1. 匹配tvg-id属性（最高优先级）
-    tvg_id_match = re.search(r'tvg-id="([^"]*)"', metadata)
-    if tvg_id_match:
-        tvg_id = tvg_id_match.group(1)
-        # 精确匹配tvg-id
-        if tvg_id == channel_name:
-            return True
-        # 检查tvg-id是否包含频道名称（但避免部分匹配）
-        if re.search(rf'\b{re.escape(channel_name)}\b', tvg_id):
-            return True
-
-    # 2. 匹配tvg-name属性
-    tvg_name_match = re.search(r'tvg-name="([^"]*)"', metadata)
-    if tvg_name_match:
-        tvg_name = tvg_name_match.group(1)
-        # 精确匹配tvg-name
-        if tvg_name == channel_name:
-            return True
-        # 检查tvg-name是否包含频道名称（但避免部分匹配）
-        if re.search(rf'\b{re.escape(channel_name)}\b', tvg_name):
-            return True
-
-    # 3. 匹配元数据末尾的频道名称（逗号后的部分）
-    if ',' in metadata:
-        display_name = metadata.split(',')[-1].strip()
-        # 精确匹配显示名称
-        if display_name == channel_name:
-            return True
-        # 检查显示名称是否包含频道名称
-        if re.search(rf'\b{re.escape(channel_name)}\b', display_name):
-            return True
-
-    # 4. 在整个元数据中搜索（作为最后的手段）
-    if re.search(rf'\b{re.escape(channel_name)}\b', metadata):
-        return True
-
-    return False
 
 
 def extract_tvg_name(metadata):
@@ -325,8 +339,8 @@ def print_report(found_channel_urls, channel_list, missing_channel_list):
 
 
 def main():
-    # 1. 加载频道列表和分组映射
-    channel_list, channel_to_group = load_channels()
+    # 1. 加载频道列表和分组映射及重复频道信息
+    channel_list, channel_to_group, duplicate_channels = load_channels()
     if not channel_list:
         return
 

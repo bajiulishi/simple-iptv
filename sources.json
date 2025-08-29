@@ -1,10 +1,12 @@
 {
     "sources": [
-        "https://raw.githubusercontent.com/bajiulishi/simple-iptv/refs/heads/main/res/jsyd.m3u",
-        "https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
-        "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u",
-        "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "https://raw.githubusercontent.com/bajiulishi/simple-iptv/main/res/jsyd.m3u",
+        "https://raw.githubusercontent.com/bajiulishi/simple-iptv/main/res/manual.m3u",
+        "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+        "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
+        "https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u",
         "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+        "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
         "https://iptv-org.github.io/iptv/index.m3u"
     ]
 }
