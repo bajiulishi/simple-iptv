@@ -774,6 +774,8 @@ http://1.94.31.214:35455/huya/30080236
 #EXTINF:-1 tvg-logo="https://gitproxy.click/raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png"  group-title="点播频道" tvg-name="频道_源1",七龙珠
 http://iptv.jxpan.vip:18888/aio/huya/11601966
 #EXTINF:-1 tvg-logo="https://gitproxy.click/raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png"  group-title="点播频道" tvg-name="频道_源2",七龙珠
+http://www.douzhicloud.site:35455/huya/11601966
+#EXTINF:-1 tvg-logo="https://gitproxy.click/raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png"  group-title="点播频道" tvg-name="频道_源3",七龙珠
 http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://gitproxy.click/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png"  group-title="点播频道" tvg-name="频道_源1",拆弹专家1
 https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
@@ -911,9 +913,9 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 tvg-id="MOMOTV" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/MOMOTV.png" group-title="港澳台频道" tvg-name="MOMOTV_源2",MOMO TV
 rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:9 aktv-group="AKTV" tvg-id="aktv/tvbplus" provider-type="iptv"  group-title="港澳台频道" tvg-name="频道_源1",TVB Plus
-http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
-#EXTINF:9 aktv-group="AKTV" tvg-id="aktv/tvbplus" provider-type="iptv"  group-title="港澳台频道" tvg-name="频道_源2",TVB Plus
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVB Plus.png" group-title="港澳台频道" tvg-name="TVB Plus_源1",TVB Plus
+http://bxtv.3a.ink/api.php?id=tvbp
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVB Plus.png" group-title="港澳台频道" tvg-name="TVB Plus_源2",TVB Plus
 https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/BLTV.png" group-title="港澳台频道" tvg-name="人间卫视_源1",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
@@ -1110,7 +1112,7 @@ https://fl3.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",WeTV
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",WeTV
-https://fl1.moveonjoy.com/WE_TV/index.m3u8
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-logo="https://i.imgur.com/Czxi7yk.png"  group-title="国际频道" tvg-name="频道_源1",Asharq Discovery (1080p)
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",韩国BBS
