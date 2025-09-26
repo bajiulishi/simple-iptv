@@ -2,5 +2,104 @@
 #EXTINF:-1 ,韩国BBS
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/3cd4645b86e9427abe25015fdd98f496_middle.jpg" group-title="原创IP", 猫眼电影
-http://148.135.93.213:81/live/douyu/8726221
+
+#EXTINF:-1 ,极限挑战20150614
+https://c1.rrcdnbf5.com/video/jixiantiaozhandiyiji/20150614期/index.m3u8
+#EXTINF:-1 ,极限挑战20150621
+https://c1.rrcdnbf5.com/video/jixiantiaozhandiyiji/20150621期/index.m3u8
+#EXTINF:-1 ,极限挑战20150628
+https://c1.rrcdnbf5.com/video/jixiantiaozhandiyiji/20150628期/index.m3u8
+#EXTINF:-1 ,极限挑战20150705
+https://c1.rrcdnbf5.com/video/jixiantiaozhandiyiji/20150705期/index.m3u8
+#EXTINF:-1 ,极限挑战20150712
+https://c1.rrcdnbf5.com/video/jixiantiaozhandiyiji/20150712期/index.m3u8
+#EXTINF:-1 ,极限挑战20150719
+https://c1.rrcdnbf5.com/video/jixiantiaozhandiyiji/20150719期/index.m3u8
+#EXTINF:-1 ,极限挑战20150726
+https://c1.rrcdnbf5.com/video/jixiantiaozhandiyiji/20150726期/index.m3u8
+#EXTINF:-1 ,极限挑战20150802
+https://c1.rrcdnbf5.com/video/jixiantiaozhandiyiji/20150802期/index.m3u8
+#EXTINF:-1 ,极限挑战20150809
+https://c1.rrcdnbf5.com/video/jixiantiaozhandiyiji/20150809期/index.m3u8
+#EXTINF:-1 ,极限挑战20150906
+https://c1.rrcdnbf5.com/video/jixiantiaozhandiyiji/20150906期/index.m3u8
+#EXTINF:-1 ,极限挑战20150913
+https://c1.rrcdnbf5.com/video/jixiantiaozhandiyiji/20150913期/index.m3u8
+#EXTINF:-1 ,极限挑战20150920
+https://c1.rrcdnbf5.com/video/jixiantiaozhandiyiji/20150920期/index.m3u8
+#EXTINF:-1 ,极限挑战20151005
+https://c1.rrcdnbf5.com/video/jixiantiaozhandiyiji/20151005期/index.m3u8
+#EXTINF:-1 ,极限挑战20160417
+https://c1.rrcdnbf5.com/video/jixiantiaozhandierji/20160417期/index.m3u8
+#EXTINF:-1 ,极限挑战20160424
+https://c1.rrcdnbf5.com/video/jixiantiaozhandierji/20160424期/index.m3u8
+#EXTINF:-1 ,极限挑战20160501
+https://c1.rrcdnbf5.com/video/jixiantiaozhandierji/20160501期/index.m3u8
+#EXTINF:-1 ,极限挑战20160508
+https://c1.rrcdnbf5.com/video/jixiantiaozhandierji/20160508期/index.m3u8
+#EXTINF:-1 ,极限挑战20160515
+https://c1.rrcdnbf5.com/video/jixiantiaozhandierji/20160515期/index.m3u8
+#EXTINF:-1 ,极限挑战20160522
+https://c1.rrcdnbf5.com/video/jixiantiaozhandierji/20160522期/index.m3u8
+#EXTINF:-1 ,极限挑战20160529
+https://c1.rrcdnbf5.com/video/jixiantiaozhandierji/20160529期/index.m3u8
+#EXTINF:-1 ,极限挑战20160605
+https://c1.rrcdnbf5.com/video/jixiantiaozhandierji/20160605期/index.m3u8
+#EXTINF:-1 ,极限挑战20160612
+https://c1.rrcdnbf5.com/video/jixiantiaozhandierji/20160612期/index.m3u8
+#EXTINF:-1 ,极限挑战20160619
+https://c1.rrcdnbf5.com/video/jixiantiaozhandierji/20160619期/index.m3u8
+#EXTINF:-1 ,极限挑战20160626
+https://c1.rrcdnbf5.com/video/jixiantiaozhandierji/20160626期/index.m3u8
+#EXTINF:-1 ,极限挑战20160703
+https://c1.rrcdnbf5.com/video/jixiantiaozhandierji/20160703期/index.m3u8
+#EXTINF:-1 ,极限挑战20160710
+https://c1.rrcdnbf5.com/video/jixiantiaozhandierji/20160710期/index.m3u8
+#EXTINF:-1 ,极限挑战20170709
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisanji/20170709期/index.m3u8
+#EXTINF:-1 ,极限挑战20170716
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisanji/20170716期/index.m3u8
+#EXTINF:-1 ,极限挑战20170723
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisanji/20170723期/index.m3u8
+#EXTINF:-1 ,极限挑战20170730
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisanji/20170730期/index.m3u8
+#EXTINF:-1 ,极限挑战20170806
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisanji/20170806期/index.m3u8
+#EXTINF:-1 ,极限挑战20170813
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisanji/20170813期/index.m3u8
+#EXTINF:-1 ,极限挑战20170820
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisanji/20170820期/index.m3u8
+#EXTINF:-1 ,极限挑战20170827
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisanji/20170827期/index.m3u8
+#EXTINF:-1 ,极限挑战20170903
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisanji/20170903期/index.m3u8
+#EXTINF:-1 ,极限挑战20171103
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisanji/20171103期/index.m3u8
+#EXTINF:-1 ,极限挑战20171110
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisanji/20171110期/index.m3u8
+#EXTINF:-1 ,极限挑战20171117
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisanji/20171117期/index.m3u8
+#EXTINF:-1 ,极限挑战20180429
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisiji/20180429期/index.m3u8
+#EXTINF:-1 ,极限挑战20180506
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisiji/20180506期/index.m3u8
+#EXTINF:-1 ,极限挑战20180513
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisiji/20180513期/index.m3u8
+#EXTINF:-1 ,极限挑战20180520
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisiji/20180520期/index.m3u8
+#EXTINF:-1 ,极限挑战20180527
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisiji/20180527期/index.m3u8
+#EXTINF:-1 ,极限挑战20180603
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisiji/20180603期/index.m3u8
+#EXTINF:-1 ,极限挑战20180610
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisiji/20180610期/index.m3u8
+#EXTINF:-1 ,极限挑战20180617
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisiji/20180617期/index.m3u8
+#EXTINF:-1 ,极限挑战20180624
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisiji/20180624期/index.m3u8
+#EXTINF:-1 ,极限挑战20180701
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisiji/20180701期/index.m3u8
+#EXTINF:-1 ,极限挑战20180708
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisiji/20180708期/index.m3u8
+#EXTINF:-1 ,极限挑战20180715
+https://c1.rrcdnbf5.com/video/jixiantiaozhandisiji/20180715期/index.m3u8
