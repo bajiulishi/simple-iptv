@@ -514,7 +514,7 @@ http://ygbh.site/php/bfgd.php?id=109
 #EXTINF:-1 tvg-id="山西卫视" group-title="卫视频道" tvg-name="山西卫视_源3",山西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-id="山西卫视" group-title="卫视频道" tvg-name="山西卫视_源4",山西卫视
-http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010114
+http://zqh2333.top:2222/rtp/239.93.24.6:5140
 #EXTINF:-1 tvg-id="山西卫视" group-title="卫视频道" tvg-name="山西卫视_源5",山西卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="山西卫视" group-title="卫视频道" tvg-name="山西卫视_源6",山西卫视
@@ -725,9 +725,9 @@ http://222.128.55.152:9080/live/ts.m3u8
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVBS1.png" group-title="港澳台频道" tvg-name="TVBS新闻台_源2",TVBS新闻台
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 tvg-id="中天新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="港澳台频道" tvg-name="中天新闻_源1",中天新闻
-https://gdfire2.67890123.cn:8088/live/ztxw01.m3u8
-#EXTINF:-1 tvg-id="中天新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="港澳台频道" tvg-name="中天新闻_源2",中天新闻
+#EXTINF:-1 tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="港澳台频道" tvg-name="中天新聞台_源1",中天新聞台
+http://bxtv.3a.ink/api.php?id=ztxw
+#EXTINF:-1 tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="港澳台频道" tvg-name="中天新聞台_源2",中天新聞台
 http://222.128.55.152:9080/live/fc.m3u8
 #EXTINF:-1 tvg-id="民视新闻台" tvg-logo="https://live.fanmingming.cn/tv/民视新闻台.png" group-title="港澳台频道" tvg-name="民视新闻台_源1",民视新闻台
 http://live4play.uk/livehttpplay?channel_id=20097
@@ -737,9 +737,9 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 tvg-id="MOMOTV" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/MOMOTV.png" group-title="港澳台频道" tvg-name="MOMOTV_源2",MOMO TV
 rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVB Plus.png" group-title="港澳台频道" tvg-name="TVB Plus_源1",TVB Plus
+#EXTINF:-1 tvg-logo="http://bxtv.3a.ink/logo/TVBPLUS.png" group-title="港澳台频道" tvg-name="TVB Plus_源1",TVB Plus
 http://bxtv.3a.ink/api.php?id=tvbp
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVB Plus.png" group-title="港澳台频道" tvg-name="TVB Plus_源2",TVB Plus
+#EXTINF:-1 tvg-logo="http://bxtv.3a.ink/logo/TVBPLUS.png" group-title="港澳台频道" tvg-name="TVB Plus_源2",TVB Plus
 https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/BLTV.png" group-title="港澳台频道" tvg-name="人间卫视_源1",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
@@ -918,8 +918,6 @@ http://1.94.31.214:35455/huya/30080236
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png"  group-title="点播频道" tvg-name="频道_源1",七龙珠
 http://iptv.jxpan.vip:18888/aio/huya/11601966
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png"  group-title="点播频道" tvg-name="频道_源2",七龙珠
-http://www.douzhicloud.site:35455/huya/11601966
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png"  group-title="点播频道" tvg-name="频道_源3",七龙珠
 http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png"  group-title="点播频道" tvg-name="频道_源1",拆弹专家1
 https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
@@ -1202,7 +1200,7 @@ http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="QVC.jp" tvg-logo="https://i.imgur.com/6TWUVrh.png"  group-title="国际频道" tvg-name="频道_源1",QVC Japan (720p)
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"  group-title="国际频道" tvg-name="频道_源1",NHK World-Japan (720p)
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",Wild Earth
