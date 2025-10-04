@@ -918,6 +918,8 @@ http://1.94.31.214:35455/huya/30080236
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png"  group-title="点播频道" tvg-name="频道_源1",七龙珠
 http://iptv.jxpan.vip:18888/aio/huya/11601966
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png"  group-title="点播频道" tvg-name="频道_源2",七龙珠
+http://www.douzhicloud.site:35455/huya/11601966
+#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png"  group-title="点播频道" tvg-name="频道_源3",七龙珠
 http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png"  group-title="点播频道" tvg-name="频道_源1",拆弹专家1
 https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
@@ -1114,12 +1116,10 @@ https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTl
 #EXTINF:-1 group-title="历年春晚" tvg-name="春晚_源1",春晚1983
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",BBC News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+https://jmp2.uk/stvp-US4000033L
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",Fox News
-http://panelguys.top:8080/txd7Fd/030774/1818
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",Fox News
+#EXTINF:-1 tvg-id="FoxNewsRadio.us" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png"  group-title="国际频道" tvg-name="频道_源1",Fox News Radio (720p)
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",CBS News
 http://panelguys.top:8080/txd7Fd/030774/21259
@@ -1137,42 +1137,18 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/54
 https://jmp2.uk/sam-GBBD8000016N.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-logo="https://i.imgur.com/HiBrysh.png"  group-title="国际频道" tvg-name="频道_源1",ESPN U (720p)
 https://fl25.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",NBA TV
-http://panelguys.top:8080/txd7Fd/030774/22995
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",NBA TV
+#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png"  group-title="国际频道" tvg-name="频道_源1",NBA TV (1080p) [Geo-blocked]
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源3",NBA TV
+#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png"  group-title="国际频道" tvg-name="频道_源2",NBA TV (1080p) [Geo-blocked]
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",HBO HD
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/7968
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",Disney XD
-http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",Disney XD
+#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-logo="https://i.postimg.cc/MKNssTyj/disneyxd.png"  group-title="国际频道" tvg-name="频道_源1",Disney XD (576p)
 http://185.236.229.62:9981/play/a07c
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png"  group-title="国际频道" tvg-name="频道_源1",Disney Channel (576p)
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",Disney Junior
-http://panelguys.top:8080/txd7Fd/030774/57349
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://i.postimg.cc/KvRqrLg2/disneyjunior.png"  group-title="国际频道" tvg-name="频道_源1",Disney Junior (576p)
 http://116.90.120.149:8000/play/a0b3/index.m3u8
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",Animal Planet
-http://panelguys.top:8080/txd7Fd/030774/57377
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",Game Show Network
-http://panelguys.top:8080/txd7Fd/030774/57430
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",Game Show Network
+#EXTINF:-1 tvg-id="GameShowNetwork.us@East" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg"  group-title="国际频道" tvg-name="频道_源1",Game Show Network East (720p) [Not 24/7]
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",PBS HD
-http://panelguys.top:8080/txd7Fd/030774/57276
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",CRAVE 1 HD
-http://panelguys.top:8080/txd7Fd/030774/57309
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",Discovery Science
-http://fl1.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",Discovery Channel
-http://panelguys.top:8080/txd7Fd/030774/53684
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",Discovery Life
-http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",Discovery History
-http://panelguys.top:8080/txd7Fd/030774/53694
 #EXTINF:-1 tvg-id="MTVLive.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png"  group-title="国际频道" tvg-name="频道_源1",MTV Live
 http://190.102.246.93:9005/play/a01p
 #EXTINF:-1 tvg-id="" tvg-logo=""  group-title="国际频道" tvg-name="频道_源1",True History Channel
@@ -1185,9 +1161,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
 #EXTINF:-1 tvg-id="VH1.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png"  group-title="国际频道" tvg-name="频道_源1",VH1 East
 https://fl25.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",WeTV
-http://fl1.moveonjoy.com/WE_TV/index.m3u8
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",WeTV
+#EXTINF:-1 tvg-id="WeTV.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/512px-We_TV_logo_2014.svg.png"  group-title="国际频道" tvg-name="频道_源1",We TV
 http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-logo="https://i.imgur.com/Czxi7yk.png"  group-title="国际频道" tvg-name="频道_源1",Asharq Discovery (1080p)
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
