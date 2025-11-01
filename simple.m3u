@@ -766,11 +766,11 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 #EXTINF:-1  group-title="港澳台频道" tvg-name="频道_源4",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源1",周星驰电影
-http://live.nctv.top/huya.php?id=11342412
+http://cfss.cc/cdn/hy/11342412.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源2",周星驰电影
 http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源1",林正英电影
-http://live.nctv.top/huya.php?id=11342421
+http://cfss.cc/cdn/hy/11342421.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源2",林正英电影
 http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源1",刘德华电影
@@ -830,6 +830,8 @@ http://1.94.31.214:35455/huya/30080236
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png"  group-title="点播频道" tvg-name="频道_源1",七龙珠
 http://live.nctv.top/huya.php?id=11601966
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png"  group-title="点播频道" tvg-name="频道_源2",七龙珠
+http://live.nctv.top/huya.php?id=11601966
+#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png"  group-title="点播频道" tvg-name="频道_源3",七龙珠
 http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png"  group-title="点播频道" tvg-name="频道_源1",拆弹专家1
 https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
@@ -854,7 +856,7 @@ https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源1",封神榜
 http://live.nctv.top/huya.php?id=29465849
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源2",封神榜
-http://live.nctv.top/huya.php?id=29465849
+http://luobo.bkpcp.top/yy/1353426319
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源3",封神榜
 http://1.94.31.214:35455/huya/29465849
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源1",西游记2
@@ -874,13 +876,13 @@ http://1.94.31.214:35455/huya/29465848
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源1",射雕英雄传
 http://live.nctv.top/huya.php?id=23824164
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源2",射雕英雄传
-http://live.nctv.top/huya.php?id=23824164
+http://live.iill.top/yy.php?id=1354210357
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源3",射雕英雄传
 http://1.94.31.214:35455/huya/23824164
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/笑傲江湖.png"  group-title="点播频道" tvg-name="频道_源1",笑傲江湖
 http://live.nctv.top/huya.php?id=26355790
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/笑傲江湖.png"  group-title="点播频道" tvg-name="频道_源2",笑傲江湖
-http://live.nctv.top/huya.php?id=23865142
+http://lu.wqwqwq.sbs/yy/1354930909
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/笑傲江湖.png"  group-title="点播频道" tvg-name="频道_源3",笑傲江湖
 http://1.94.31.214:35455/huya/26355790
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源1",鉴证实录
@@ -888,7 +890,7 @@ http://live.nctv.top/huya.php?id=23903183
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源2",鉴证实录
 http://1.94.31.214:35455/huya/23903183
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/延禧攻略.png"  group-title="点播频道" tvg-name="频道_源1",延禧攻略
-http://live.nctv.top/huya.php?id=26355864
+http://cfss.cc/cdn/hy/26355864.m3u8
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/延禧攻略.png"  group-title="点播频道" tvg-name="频道_源2",延禧攻略
 http://182.40.120.195/test-txdwk.flv.huya.com/src/1099531840940-1099531840940-86814878328684544-2199063805336-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/雪豹.png"  group-title="点播频道" tvg-name="频道_源1",雪豹
