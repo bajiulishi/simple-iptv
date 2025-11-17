@@ -8,7 +8,7 @@ http://101.35.240.114:88/live.php?id=CCTV1
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png"  group-title="央视频道" tvg-name="频道_源4",CCTV1
 http://123.175.209.52:9003/hls/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png"  group-title="央视频道" tvg-name="频道_源5",CCTV1
-http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=lg
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png"  group-title="央视频道" tvg-name="频道_源6",CCTV1
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png"  group-title="央视频道" tvg-name="频道_源7",CCTV1
@@ -22,7 +22,7 @@ http://148.135.93.213/live.php?id=CCTV2
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png"  group-title="央视频道" tvg-name="频道_源4",CCTV2
 http://123.175.209.52:9003/hls/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png"  group-title="央视频道" tvg-name="频道_源5",CCTV2
-http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=lg
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=cq
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png"  group-title="央视频道" tvg-name="频道_源6",CCTV2
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png"  group-title="央视频道" tvg-name="频道_源7",CCTV2
@@ -48,7 +48,7 @@ http://148.135.93.213/live.php?id=CCTV4
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png"  group-title="央视频道" tvg-name="频道_源3",CCTV4
 http://148.135.93.213/live.php?id=CCTV4
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png"  group-title="央视频道" tvg-name="频道_源4",CCTV4
-http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=cq
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=lg
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png"  group-title="央视频道" tvg-name="频道_源5",CCTV4
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png"  group-title="央视频道" tvg-name="频道_源6",CCTV4
@@ -132,7 +132,7 @@ http://101.35.240.114:88/live.php?id=CCTV10
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png"  group-title="央视频道" tvg-name="频道_源4",CCTV10
 http://123.175.209.52:9003/hls/11/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png"  group-title="央视频道" tvg-name="频道_源5",CCTV10
-http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=lg
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=gq
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png"  group-title="央视频道" tvg-name="频道_源6",CCTV10
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png"  group-title="央视频道" tvg-name="频道_源7",CCTV10
@@ -160,7 +160,7 @@ http://101.35.240.114:88/live.php?id=CCTV12
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png"  group-title="央视频道" tvg-name="频道_源4",CCTV12
 http://123.175.209.52:9003/hls/13/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png"  group-title="央视频道" tvg-name="频道_源5",CCTV12
-http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=gq
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=lg
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png"  group-title="央视频道" tvg-name="频道_源6",CCTV12
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png"  group-title="央视频道" tvg-name="频道_源7",CCTV12
