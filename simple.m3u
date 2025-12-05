@@ -8,7 +8,7 @@ http://pull-skycorp.speedws.com/live/ft4Fc0PGDbG0WWFgXQNsNRHYYunA1tsr7a7BcSEpS7m
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png"  group-title="央视频道" tvg-name="频道_源4",CCTV1
 http://123.175.209.52:9003/hls/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png"  group-title="央视频道" tvg-name="频道_源5",CCTV1
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+http://a.402089.xyz:4022/rtp/233.50.200.143:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png"  group-title="央视频道" tvg-name="频道_源6",CCTV1
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png"  group-title="央视频道" tvg-name="频道_源7",CCTV1
@@ -240,7 +240,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228680/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/世界地理.png"  group-title="央视频道" tvg-name="频道_源2",世界地理
 http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/世界地理.png"  group-title="央视频道" tvg-name="频道_源3",世界地理
-http://183.238.86.52:4022/rtp/239.11.0.63:1025
+http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/世界地理.png"  group-title="央视频道" tvg-name="频道_源4",世界地理
 http://dassby.qqff.top:99/live/世界地理/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云足球.png"  group-title="央视频道" tvg-name="频道_源1",风云足球
@@ -248,7 +248,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228668/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云足球.png"  group-title="央视频道" tvg-name="频道_源2",风云足球
 http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云足球.png"  group-title="央视频道" tvg-name="频道_源3",风云足球
-http://183.238.86.52:4022/rtp/239.11.0.59:1025
+https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云足球.png"  group-title="央视频道" tvg-name="频道_源4",风云足球
 http://dassby.qqff.top:99/live/风云足球/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云音乐.png"  group-title="央视频道" tvg-name="频道_源1",风云音乐
@@ -256,7 +256,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228665/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云音乐.png"  group-title="央视频道" tvg-name="频道_源2",风云音乐
 http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云音乐.png"  group-title="央视频道" tvg-name="频道_源3",风云音乐
-http://183.238.86.52:4022/rtp/239.11.0.68:1025
+https://hls-gateway.vpstv.net/streams/708858.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云音乐.png"  group-title="央视频道" tvg-name="频道_源4",风云音乐
 http://dassby.qqff.top:99/live/风云音乐/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云剧场.png"  group-title="央视频道" tvg-name="频道_源1",风云剧场
@@ -280,7 +280,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228671/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/怀旧剧场.png"  group-title="央视频道" tvg-name="频道_源2",怀旧剧场
 http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/怀旧剧场.png"  group-title="央视频道" tvg-name="频道_源3",怀旧剧场
-http://221.205.180.120:8004/rtp/226.0.2.224:9704
+http://171.125.90.120:6001/rtp/226.0.2.224:9704
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/怀旧剧场.png"  group-title="央视频道" tvg-name="频道_源4",怀旧剧场
 http://dassby.qqff.top:99/live/怀旧剧场/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/女性时尚.png"  group-title="央视频道" tvg-name="频道_源1",女性时尚
@@ -388,7 +388,7 @@ http://101.35.240.114:88/live.php?id=深圳卫视
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png"  group-title="卫视频道" tvg-name="频道_源3",深圳卫视
 http://iptv.huuc.edu.cn/hls/szhd.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png"  group-title="卫视频道" tvg-name="频道_源4",深圳卫视
-http://183.238.86.52:4022/rtp/239.10.0.52:1025
+http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png"  group-title="卫视频道" tvg-name="频道_源5",深圳卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png"  group-title="卫视频道" tvg-name="频道_源6",深圳卫视
@@ -416,7 +416,7 @@ http://iptv.huuc.edu.cn/hls/tjhd.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png"  group-title="卫视频道" tvg-name="频道_源4",天津卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png"  group-title="卫视频道" tvg-name="频道_源5",天津卫视
-http://183.238.86.52:4022/rtp/239.10.0.55:1025
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png"  group-title="卫视频道" tvg-name="频道_源6",天津卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png"  group-title="卫视频道" tvg-name="频道_源7",天津卫视
@@ -672,7 +672,7 @@ http://ygbh.site/php/bfgd.php?id=119
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png"  group-title="卫视频道" tvg-name="频道_源4",甘肃卫视
 http://118.81.195.79:9003/hls/25/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png"  group-title="卫视频道" tvg-name="频道_源5",甘肃卫视
-http://183.238.86.52:4022/rtp/239.11.0.175:1025
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png"  group-title="卫视频道" tvg-name="频道_源6",甘肃卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png"  group-title="卫视频道" tvg-name="频道_源7",甘肃卫视
@@ -1026,7 +1026,7 @@ https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTl
 #EXTINF:-1 group-title="历年春晚" tvg-name="春晚_源1",春晚1983
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",BBC News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/241948
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",BBC News
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png"  group-title="国际频道" tvg-name="频道_源1",Fox News Channel (720p)
@@ -1034,7 +1034,7 @@ https://moveonjoy-scan.vercel.app/api/scan?url=https://fl9.moveonjoy.com/FOX_NEW
 #EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png"  group-title="国际频道" tvg-name="频道_源1",CBS News 24/7
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",CNN
-https://jmp2.uk/stvp-GBBD8000016N
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/136581
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",CNN
 https://jmp2.uk/sam-GBBD8000016N.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源3",CNN
@@ -1045,9 +1045,13 @@ https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png"  group-title="国际频道" tvg-name="频道_源2",NBA TV (1080p) [Geo-blocked]
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://i.postimg.cc/MKNssTyj/disneyxd.png"  group-title="国际频道" tvg-name="频道_源1",Disney XD (720p)
+#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",Disney XD
+http://supersonictv.live:8080/live/006779/439866/21801.m3u8
+#EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",Disney XD
 http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.bg@SD" tvg-logo="https://i.imgur.com/UxrAiAe.png"  group-title="国际频道" tvg-name="频道_源1",Disney Channel (576p)
+#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",Disney Channel
+http://supersonictv.live:8080/live/006779/439866/21795.m3u8
+#EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",Disney Channel
 http://84.54.128.52:9090/play/3006/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://i.postimg.cc/KvRqrLg2/disneyjunior.png"  group-title="国际频道" tvg-name="频道_源1",Disney Junior (576p)
 http://66.102.120.18:8000/play/a004/index.m3u8
