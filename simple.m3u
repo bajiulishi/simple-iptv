@@ -264,7 +264,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228662/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云剧场.png"  group-title="央视频道" tvg-name="频道_源2",风云剧场
 http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云剧场.png"  group-title="央视频道" tvg-name="频道_源3",风云剧场
-http://116.179.130.16:6001/rtp/226.0.2.227:9728
+http://171.125.90.120:6001/rtp/226.0.2.227:9728
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云剧场.png"  group-title="央视频道" tvg-name="频道_源4",风云剧场
 http://dassby.qqff.top:99/live/风云剧场/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png"  group-title="央视频道" tvg-name="频道_源1",第一剧场
@@ -272,7 +272,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228659/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png"  group-title="央视频道" tvg-name="频道_源2",第一剧场
 http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png"  group-title="央视频道" tvg-name="频道_源3",第一剧场
-http://116.179.130.16:6001/rtp/226.0.2.221:9680
+http://171.125.90.120:6001/rtp/226.0.2.221:9680
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png"  group-title="央视频道" tvg-name="频道_源4",第一剧场
 http://dassby.qqff.top:99/live/第一剧场/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/怀旧剧场.png"  group-title="央视频道" tvg-name="频道_源1",怀旧剧场
@@ -1026,15 +1026,17 @@ https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTl
 #EXTINF:-1 group-title="历年春晚" tvg-name="春晚_源1",春晚1983
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",BBC News
-http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/241948
+http://powerserver.ottc.pro:80/PWYZQZ93BU/FZYPDZNITZ/445134
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",BBC News
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png"  group-title="国际频道" tvg-name="频道_源1",Fox News Channel (720p)
+#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",Fox News
+http://best-streams.tv:80/11223344/44332211/963330
+#EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",Fox News
 https://moveonjoy-scan.vercel.app/api/scan?url=https://fl9.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png"  group-title="国际频道" tvg-name="频道_源1",CBS News 24/7
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",CNN
-http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/136581
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129637
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",CNN
 https://jmp2.uk/sam-GBBD8000016N.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源3",CNN
@@ -1057,6 +1059,10 @@ http://84.54.128.52:9090/play/3006/index.m3u8
 http://66.102.120.18:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="GameShowNetwork.us@East" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg"  group-title="国际频道" tvg-name="频道_源1",Game Show Network East (720p) [Not 24/7]
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",Discovery Science
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129867
+#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",Discovery Life
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129866
 #EXTINF:-1 tvg-id="MTVLive.us@SD" tvg-logo="https://i.imgur.com/3UByLqb.png"  group-title="国际频道" tvg-name="频道_源1",MTV Live (720p)
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=""  group-title="国际频道" tvg-name="频道_源1",True History Channel
