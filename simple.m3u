@@ -4,7 +4,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png"  group-title="央视频道" tvg-name="频道_源2",CCTV1
 http://101.35.240.114:88/live.php?id=CCTV1
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png"  group-title="央视频道" tvg-name="频道_源3",CCTV1
-http://101.35.240.114:88/live.php?id=CCTV1
+http://play-hsbj.vzan.com/978354/446938712125478466/live.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png"  group-title="央视频道" tvg-name="频道_源4",CCTV1
 http://123.175.209.52:9003/hls/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png"  group-title="央视频道" tvg-name="频道_源5",CCTV1
@@ -240,7 +240,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228680/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/世界地理.png"  group-title="央视频道" tvg-name="频道_源2",世界地理
 http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/世界地理.png"  group-title="央视频道" tvg-name="频道_源3",世界地理
-http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86&auth=666858
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/世界地理.png"  group-title="央视频道" tvg-name="频道_源4",世界地理
 http://dassby.qqff.top:99/live/世界地理/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云足球.png"  group-title="央视频道" tvg-name="频道_源1",风云足球
@@ -272,7 +272,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228659/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png"  group-title="央视频道" tvg-name="频道_源2",第一剧场
 http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png"  group-title="央视频道" tvg-name="频道_源3",第一剧场
-http://171.83.103.119:9999/rtp/239.69.1.74:10084
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA&auth=666858
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png"  group-title="央视频道" tvg-name="频道_源4",第一剧场
 http://dassby.qqff.top:99/live/第一剧场/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/怀旧剧场.png"  group-title="央视频道" tvg-name="频道_源1",怀旧剧场
