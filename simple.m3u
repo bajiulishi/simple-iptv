@@ -306,7 +306,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png"  group-title="卫视频道" tvg-name="频道_源2",北京卫视
 http://101.35.240.114:88/live.php?id=北京卫视
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png"  group-title="卫视频道" tvg-name="频道_源3",北京卫视
-http://101.35.240.114:88/live.php?id=北京卫视
+http://139.ye23.vip/dl/btv2502.php?id=bjws4
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png"  group-title="卫视频道" tvg-name="频道_源4",北京卫视
 http://ivi.bupt.edu.cn/hls/btv1.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png"  group-title="卫视频道" tvg-name="频道_源5",北京卫视
@@ -1081,8 +1081,6 @@ https://fl1.moveonjoy.com/VH1/index.m3u8
 http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="AsharqDiscovery.sa@SD" tvg-logo="https://i.imgur.com/Czxi7yk.png"  group-title="国际频道" tvg-name="频道_源1",Asharq Discovery (1080p)
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",韩国BBS
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="KTV.kr@SD" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png"  group-title="国际频道" tvg-name="频道_源1",Korea TV (1080p)
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDRDTV.kr@SD" tvg-logo="https://i.imgur.com/zVunmpQ.png"  group-title="国际频道" tvg-name="频道_源1",SBS CJB (540p) [Not 24/7]
