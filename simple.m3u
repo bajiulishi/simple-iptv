@@ -22,7 +22,7 @@ http://148.135.93.213/live.php?id=CCTV2
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png"  group-title="央视频道" tvg-name="频道_源4",CCTV2
 http://123.175.209.52:9003/hls/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png"  group-title="央视频道" tvg-name="频道_源5",CCTV2
-http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009
+http://pull-hls-f1.douyincdn.com/media/stream-695106910011261612/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202601211138448FA9B998510F771A8747-9PrRHC&wsSecret=de5da072805f2c6d3fe8427464714c6f&wsTime=69704a44
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png"  group-title="央视频道" tvg-name="频道_源6",CCTV2
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png"  group-title="央视频道" tvg-name="频道_源7",CCTV2
@@ -36,7 +36,7 @@ http://101.35.240.114:88/live.php?id=CCTV3
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png"  group-title="央视频道" tvg-name="频道_源4",CCTV3
 http://123.175.209.52:9003/hls/3/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png"  group-title="央视频道" tvg-name="频道_源5",CCTV3
-http://38.75.136.137:98/gslb/dsdqca/cctv3hd.m3u8?auth=test20251009
+http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png"  group-title="央视频道" tvg-name="频道_源6",CCTV3
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png"  group-title="央视频道" tvg-name="频道_源7",CCTV3
@@ -76,7 +76,7 @@ http://101.35.240.114:88/live.php?id=CCTV6
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png"  group-title="央视频道" tvg-name="频道_源4",CCTV6
 http://123.175.209.52:9003/hls/7/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png"  group-title="央视频道" tvg-name="频道_源5",CCTV6
-http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png"  group-title="央视频道" tvg-name="频道_源6",CCTV6
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png"  group-title="央视频道" tvg-name="频道_源7",CCTV6
@@ -104,7 +104,7 @@ http://101.35.240.114:88/live.php?id=CCTV8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png"  group-title="央视频道" tvg-name="频道_源4",CCTV8
 http://123.175.209.52:9003/hls/9/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png"  group-title="央视频道" tvg-name="频道_源5",CCTV8
-http://38.75.136.137:98/gslb/dsdqca/gxwshd.m3u8?auth=test20251009
+http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png"  group-title="央视频道" tvg-name="频道_源6",CCTV8
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png"  group-title="央视频道" tvg-name="频道_源7",CCTV8
@@ -132,7 +132,7 @@ http://101.35.240.114:88/live.php?id=CCTV10
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png"  group-title="央视频道" tvg-name="频道_源4",CCTV10
 http://123.175.209.52:9003/hls/11/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png"  group-title="央视频道" tvg-name="频道_源5",CCTV10
-http://38.75.136.137:98/gslb/dsdqca/cctv10hd.m3u8?auth=test20251009
+http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png"  group-title="央视频道" tvg-name="频道_源6",CCTV10
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png"  group-title="央视频道" tvg-name="频道_源7",CCTV10
@@ -146,7 +146,7 @@ http://148.135.93.213/live.php?id=CCTV11
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png"  group-title="央视频道" tvg-name="频道_源4",CCTV11
 http://123.175.209.52:9003/hls/12/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png"  group-title="央视频道" tvg-name="频道_源5",CCTV11
-http://38.75.136.137:98/gslb/dsdqca/cctv11hd.m3u8?auth=test20251009
+http://69.30.246.194/live/cctv11.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png"  group-title="央视频道" tvg-name="频道_源6",CCTV11
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png"  group-title="央视频道" tvg-name="频道_源7",CCTV11
@@ -174,7 +174,7 @@ http://148.135.93.213/live.php?id=CCTV13
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png"  group-title="央视频道" tvg-name="频道_源4",CCTV13
 http://123.175.209.52:9003/hls/14/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png"  group-title="央视频道" tvg-name="频道_源5",CCTV13
-http://38.75.136.137:98/gslb/dsdqca/cctv13hd.m3u8?auth=test20251009
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png"  group-title="央视频道" tvg-name="频道_源6",CCTV13
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png"  group-title="央视频道" tvg-name="频道_源7",CCTV13
@@ -188,7 +188,7 @@ http://101.35.240.114:88/live.php?id=CCTV14
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png"  group-title="央视频道" tvg-name="频道_源4",CCTV14
 http://123.175.209.52:9003/hls/15/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png"  group-title="央视频道" tvg-name="频道_源5",CCTV14
-http://38.75.136.137:98/gslb/dsdqca/cctv14hd.m3u8?auth=test20251009
+http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png"  group-title="央视频道" tvg-name="频道_源6",CCTV14
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png"  group-title="央视频道" tvg-name="频道_源7",CCTV14
@@ -202,7 +202,7 @@ http://148.135.93.213/live.php?id=CCTV15
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png"  group-title="央视频道" tvg-name="频道_源4",CCTV15
 http://123.175.209.52:9003/hls/16/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png"  group-title="央视频道" tvg-name="频道_源5",CCTV15
-http://38.75.136.137:98/gslb/dsdqca/cctv15hd.m3u8?auth=test20251009
+http://69.30.246.194/live/cctv15.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png"  group-title="央视频道" tvg-name="频道_源6",CCTV15
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png"  group-title="央视频道" tvg-name="频道_源7",CCTV15
@@ -216,7 +216,7 @@ http://101.35.240.114:88/live.php?id=CCTV16
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png"  group-title="央视频道" tvg-name="频道_源4",CCTV16
 http://123.175.209.52:9003/hls/17/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png"  group-title="央视频道" tvg-name="频道_源5",CCTV16
-http://69.30.246.194/live/cctv16.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png"  group-title="央视频道" tvg-name="频道_源6",CCTV16
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png"  group-title="央视频道" tvg-name="频道_源7",CCTV16
@@ -230,7 +230,7 @@ http://74.48.192.96:82/live.php?id=CCTV17
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png"  group-title="央视频道" tvg-name="频道_源4",CCTV17
 http://123.175.209.52:9003/hls/18/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png"  group-title="央视频道" tvg-name="频道_源5",CCTV17
-http://38.75.136.137:98/gslb/dsdqca/cctv17hd.m3u8?auth=test20251009
+http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png"  group-title="央视频道" tvg-name="频道_源6",CCTV17
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png"  group-title="央视频道" tvg-name="频道_源7",CCTV17
@@ -256,7 +256,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228665/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云音乐.png"  group-title="央视频道" tvg-name="频道_源2",风云音乐
 http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云音乐.png"  group-title="央视频道" tvg-name="频道_源3",风云音乐
-http://171.83.103.119:9999/rtp/239.69.1.90:10180
+http://120.238.94.10:9901/tsfile/live/1089_1.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云音乐.png"  group-title="央视频道" tvg-name="频道_源4",风云音乐
 http://dassby.qqff.top:99/live/风云音乐/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云剧场.png"  group-title="央视频道" tvg-name="频道_源1",风云剧场
@@ -264,7 +264,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228662/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云剧场.png"  group-title="央视频道" tvg-name="频道_源2",风云剧场
 http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云剧场.png"  group-title="央视频道" tvg-name="频道_源3",风云剧场
-http://120.238.94.10:9901/tsfile/live/1090_1.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云剧场.png"  group-title="央视频道" tvg-name="频道_源4",风云剧场
 http://dassby.qqff.top:99/live/风云剧场/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png"  group-title="央视频道" tvg-name="频道_源1",第一剧场
@@ -310,7 +310,7 @@ http://139.ye23.vip/dl/btv2502.php?id=bjws4
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png"  group-title="卫视频道" tvg-name="频道_源4",北京卫视
 http://ivi.bupt.edu.cn/hls/btv1.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png"  group-title="卫视频道" tvg-name="频道_源5",北京卫视
-http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+http://139.ye23.vip/dl/btv2502.php?id=bjws4
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png"  group-title="卫视频道" tvg-name="频道_源6",北京卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png"  group-title="卫视频道" tvg-name="频道_源7",北京卫视
@@ -324,7 +324,7 @@ http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png"  group-title="卫视频道" tvg-name="频道_源4",东方卫视
 http://118.81.195.79:9003/hls/23/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png"  group-title="卫视频道" tvg-name="频道_源5",东方卫视
-http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
+http://69.30.246.194/live/dfws.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png"  group-title="卫视频道" tvg-name="频道_源6",东方卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png"  group-title="卫视频道" tvg-name="频道_源7",东方卫视
@@ -336,7 +336,7 @@ http://101.35.240.114:88/live.php?id=浙江卫视
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png"  group-title="卫视频道" tvg-name="频道_源3",浙江卫视
 https://play-qukan.cztv.com/live/1746687519046362.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png"  group-title="卫视频道" tvg-name="频道_源4",浙江卫视
-http://38.75.136.137:98/gslb/dsdqca/zjwshd.m3u8?auth=test20251009
+https://play-qukan.cztv.com/live/1746687519046362.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png"  group-title="卫视频道" tvg-name="频道_源5",浙江卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png"  group-title="卫视频道" tvg-name="频道_源6",浙江卫视
@@ -388,7 +388,7 @@ http://101.35.240.114:88/live.php?id=深圳卫视
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png"  group-title="卫视频道" tvg-name="频道_源3",深圳卫视
 http://iptv.huuc.edu.cn/hls/szhd.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png"  group-title="卫视频道" tvg-name="频道_源4",深圳卫视
-http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png"  group-title="卫视频道" tvg-name="频道_源5",深圳卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png"  group-title="卫视频道" tvg-name="频道_源6",深圳卫视
@@ -402,7 +402,7 @@ http://101.35.240.114:88/live.php?id=四川卫视4K
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png"  group-title="卫视频道" tvg-name="频道_源4",四川卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png"  group-title="卫视频道" tvg-name="频道_源5",四川卫视
-http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
+https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png"  group-title="卫视频道" tvg-name="频道_源6",四川卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png"  group-title="卫视频道" tvg-name="频道_源7",四川卫视
@@ -442,7 +442,7 @@ http://148.135.93.213/live.php?id=黑龙江卫视
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png"  group-title="卫视频道" tvg-name="频道_源3",黑龙江卫视
 http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png"  group-title="卫视频道" tvg-name="频道_源4",黑龙江卫视
-http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png"  group-title="卫视频道" tvg-name="频道_源5",黑龙江卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png"  group-title="卫视频道" tvg-name="频道_源6",黑龙江卫视
@@ -470,7 +470,7 @@ http://www.wmviv.com/iptv/bc2t.php?id=hinws
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png"  group-title="卫视频道" tvg-name="频道_源4",海南卫视
 http://118.81.195.79:9003/hls/28/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png"  group-title="卫视频道" tvg-name="频道_源5",海南卫视
-http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
+https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png"  group-title="卫视频道" tvg-name="频道_源6",海南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png"  group-title="卫视频道" tvg-name="频道_源7",海南卫视
@@ -484,7 +484,7 @@ http://www.wmviv.com/iptv/bc2t.php?id=gxws
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png"  group-title="卫视频道" tvg-name="频道_源4",广西卫视
 http://118.81.195.79:9003/hls/27/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png"  group-title="卫视频道" tvg-name="频道_源5",广西卫视
-http://23.237.228.134/live6/guangxi.m3u8
+https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png"  group-title="卫视频道" tvg-name="频道_源6",广西卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png"  group-title="卫视频道" tvg-name="频道_源7",广西卫视
@@ -594,7 +594,7 @@ http://www.wmviv.com/iptv/bc2t.php?id=sxws
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png"  group-title="卫视频道" tvg-name="频道_源4",陕西卫视
 http://112.25.48.68/live/program/live/sxws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png"  group-title="卫视频道" tvg-name="频道_源5",陕西卫视
-http://23.237.228.134/live6/sichuan.m3u8
+https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png"  group-title="卫视频道" tvg-name="频道_源6",陕西卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png"  group-title="卫视频道" tvg-name="频道_源7",陕西卫视
@@ -622,7 +622,7 @@ http://iptv.huuc.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png"  group-title="卫视频道" tvg-name="频道_源4",安徽卫视
 http://118.81.195.79:9003/hls/21/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png"  group-title="卫视频道" tvg-name="频道_源5",安徽卫视
-http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
+https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png"  group-title="卫视频道" tvg-name="频道_源6",安徽卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png"  group-title="卫视频道" tvg-name="频道_源7",安徽卫视
@@ -634,7 +634,7 @@ http://www.wmviv.com/iptv/bc2t.php?id=ynws
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png"  group-title="卫视频道" tvg-name="频道_源3",云南卫视
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png"  group-title="卫视频道" tvg-name="频道_源4",云南卫视
-http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png"  group-title="卫视频道" tvg-name="频道_源5",云南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png"  group-title="卫视频道" tvg-name="频道_源6",云南卫视
@@ -648,7 +648,7 @@ http://www.wmviv.com/iptv/bc2t.php?id=gzws
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png"  group-title="卫视频道" tvg-name="频道_源4",贵州卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png"  group-title="卫视频道" tvg-name="频道_源5",贵州卫视
-http://23.237.228.134/live6/hainan.m3u8
+https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png"  group-title="卫视频道" tvg-name="频道_源6",贵州卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png"  group-title="卫视频道" tvg-name="频道_源7",贵州卫视
@@ -686,7 +686,7 @@ http://www.wmviv.com/iptv/bc2t.php?id=nmws
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png"  group-title="卫视频道" tvg-name="频道_源4",内蒙古卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png"  group-title="卫视频道" tvg-name="频道_源5",内蒙古卫视
-http://23.237.228.134/live8/neimenggu.m3u8
+https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png"  group-title="卫视频道" tvg-name="频道_源6",内蒙古卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png"  group-title="卫视频道" tvg-name="频道_源7",内蒙古卫视
@@ -700,7 +700,7 @@ http://www.wmviv.com/iptv/bc2t.php?id=xjws
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png"  group-title="卫视频道" tvg-name="频道_源4",新疆卫视
 http://112.25.48.68/live/program/live/xjws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png"  group-title="卫视频道" tvg-name="频道_源5",新疆卫视
-http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
+https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png"  group-title="卫视频道" tvg-name="频道_源6",新疆卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png"  group-title="卫视频道" tvg-name="频道_源7",新疆卫视
