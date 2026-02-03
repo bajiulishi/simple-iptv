@@ -1047,8 +1047,8 @@ http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
 http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.bg@SD" tvg-logo="https://i.imgur.com/UxrAiAe.png"  group-title="国际频道" tvg-name="频道_源1",Disney Channel (576p)
 http://84.54.128.52:9090/play/3006/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png"  group-title="国际频道" tvg-name="频道_源1",Disney Junior (576p)
-http://116.90.120.152:8000/play/a0gu/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-logo="https://i.postimg.cc/KvRqrLg2/disneyjunior.png"  group-title="国际频道" tvg-name="频道_源1",Disney Junior East
+https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="GameShowNetwork.us@East" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg"  group-title="国际频道" tvg-name="频道_源1",Game Show Network East (720p) [Not 24/7]
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVLive.us@SD" tvg-logo="https://i.imgur.com/3UByLqb.png"  group-title="国际频道" tvg-name="频道_源1",MTV Live (720p)
