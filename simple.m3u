@@ -1051,6 +1051,8 @@ https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
 https://amg26269-amg26269c2-distrotv-us-8939.playouts.now.amagi.tv/playlist/amg26269-dogtv-unleashedbydogtv-distrotvus/playlist.m3u8?ads.vf=07k1UhASYOS
 #EXTINF:-1 tvg-id="GameShowNetwork.us@East" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg"  group-title="国际频道" tvg-name="频道_源1",Game Show Network East (720p) [Not 24/7]
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",Discovery Channel
+http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-id="MTVLive.us@SD" tvg-logo="https://i.imgur.com/3UByLqb.png"  group-title="国际频道" tvg-name="频道_源1",MTV Live (720p)
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=""  group-title="国际频道" tvg-name="频道_源1",True History Channel
