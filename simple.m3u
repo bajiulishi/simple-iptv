@@ -186,12 +186,10 @@ http://101.35.240.114:88/live.php?id=CCTV14
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png"  group-title="央视频道" tvg-name="频道_源3",CCTV14
 http://101.35.240.114:88/live.php?id=CCTV14
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png"  group-title="央视频道" tvg-name="频道_源4",CCTV14
-http://123.175.209.52:9003/hls/15/index.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png"  group-title="央视频道" tvg-name="频道_源5",CCTV14
 https://iptv.catvod.com/live.php?id=CCTV14
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png"  group-title="央视频道" tvg-name="频道_源6",CCTV14
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png"  group-title="央视频道" tvg-name="频道_源5",CCTV14
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png"  group-title="央视频道" tvg-name="频道_源7",CCTV14
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png"  group-title="央视频道" tvg-name="频道_源6",CCTV14
 http://218.13.14.6:60050/tsfile/live/1014_1.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png"  group-title="央视频道" tvg-name="频道_源1",CCTV15
 http://ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8
