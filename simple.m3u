@@ -1027,8 +1027,8 @@ https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 http://mytvstream.net:8080/live/30550113/30550113/1818.m3u8
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="国际频道" tvg-name="Fox News_源2",Fox News
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=""  group-title="国际频道" tvg-name="频道_源1",CBS News
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62310f66d5888f0007534342/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=109c4bef-6175-47c5-8d56-3581f6dc1187
+#EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png"  group-title="国际频道" tvg-name="频道_源1",CBS News 24/7 (720p)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",CNN
 https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",CNN
@@ -1055,8 +1055,6 @@ https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=""  group-title="国际频道" tvg-name="频道_源1",True History Channel
 https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVBiggestPop.us@Brazil" tvg-logo="https://i.imgur.com/AOaZmlS.png"  group-title="国际频道" tvg-name="频道_源1",MTV Biggest Pop
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=894fafdf-652c-4f22-9e5a-771596e78d67
 #EXTINF:-1 tvg-id="AsharqDiscovery.sa@SD" tvg-logo="https://i.imgur.com/Czxi7yk.png"  group-title="国际频道" tvg-name="频道_源1",Asharq Discovery (1080p)
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",韩国BBS
@@ -1067,8 +1065,8 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="QVC.jp@SD" tvg-logo="https://i.imgur.com/6TWUVrh.png"  group-title="国际频道" tvg-name="频道_源1",QVC Japan (720p)
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png"  group-title="国际频道" tvg-name="频道_源1",NHK World-Japan (1080p)
-https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png"  group-title="国际频道" tvg-name="频道_源1",NHK World-Japan HD [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",Wild Earth
