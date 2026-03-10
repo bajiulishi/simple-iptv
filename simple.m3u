@@ -304,7 +304,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png"  group-title="卫视频道" tvg-name="频道_源2",北京卫视
 http://101.35.240.114:88/live.php?id=北京卫视
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png"  group-title="卫视频道" tvg-name="频道_源3",北京卫视
-http://101.35.240.114:88/live.php?id=北京卫视
+http://8.138.7.223/tv/btime.php?id=bjws4k
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png"  group-title="卫视频道" tvg-name="频道_源4",北京卫视
 https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png"  group-title="卫视频道" tvg-name="频道_源5",北京卫视
@@ -372,7 +372,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227482/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png"  group-title="卫视频道" tvg-name="频道_源2",湖南卫视
 http://101.35.240.114:88/live.php?id=湖南卫视
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png"  group-title="卫视频道" tvg-name="频道_源3",湖南卫视
-http://101.35.240.114:88/live.php?id=湖南卫视4K
+http://8.138.7.223/tv/api.php?id=hnws4k
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png"  group-title="卫视频道" tvg-name="频道_源4",湖南卫视
 https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png"  group-title="卫视频道" tvg-name="频道_源5",湖南卫视
@@ -438,7 +438,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png"  group-title="卫视频道" tvg-name="频道_源2",黑龙江卫视
 http://101.35.240.114:88/live.php?id=黑龙江卫视
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png"  group-title="卫视频道" tvg-name="频道_源3",黑龙江卫视
-http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png"  group-title="卫视频道" tvg-name="频道_源4",黑龙江卫视
 http://118.81.195.79:9003/hls/31/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png"  group-title="卫视频道" tvg-name="频道_源5",黑龙江卫视
@@ -762,53 +762,53 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 #EXTINF:-1  group-title="港澳台频道" tvg-name="频道_源3",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源1",周星驰电影
-https://live.ottiptv.cc/huya/11342412
+http://cdn.jdshipin.com:8880/huya.php?id=11342412
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源2",周星驰电影
 http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源1",林正英电影
-https://live.ottiptv.cc/huya/11342421
+http://cdn.jdshipin.com:8880/huya.php?id=11342421
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源2",林正英电影
 http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源1",刘德华电影
-https://live.ottiptv.cc/huya/11342424
+http://cdn.jdshipin.com:8880/huya.php?id=11342424
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源2",刘德华电影
 http://1.94.31.214:35455/huya/11342424
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源1",古天乐电影
-https://live.ottiptv.cc/huya/29982675
+http://cdn.jdshipin.com:8880/huya.php?id=29982675
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源2",古天乐电影
 http://1.94.31.214:35455/huya/29982675
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源1",成龙电影
-https://live.ottiptv.cc/huya/11342386
+http://cdn.jdshipin.com:8880/huya.php?id=11342386
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源2",成龙电影
 http://zzy789.xyz/douyu1.php?id=3379942
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源1",李连杰电影
-https://live.ottiptv.cc/huya/11342390
+http://cdn.jdshipin.com:8880/huya.php?id=11342390
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源2",李连杰电影
 http://1.94.31.214:35455/huya/11342390
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源1",甄子丹电影
-https://live.ottiptv.cc/huya/11352935
+http://cdn.jdshipin.com:8880/huya.php?id=11352935
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源2",甄子丹电影
 http://1.94.31.214:35455/huya/11352935
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源1",强森电影
-https://live.ottiptv.cc/huya/21059581
+http://cdn.jdshipin.com:8880/huya.php?id=21059581
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源2",强森电影
 http://1.94.31.214:35455/huya/21059581
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源1",王晶电影
-https://live.ottiptv.cc/huya/11602058
+http://cdn.jdshipin.com:8880/huya.php?id=11602058
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源2",王晶电影
 http://1.94.31.214:35455/huya/11602058
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源1",金庸武侠
-https://live.ottiptv.cc/huya/11342435
+http://cdn.jdshipin.com:8880/huya.php?id=11342435
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源2",金庸武侠
 http://1.94.31.214:35455/huya/11342435
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源1",怪兽电影
-https://live.ottiptv.cc/huya/21059577
+http://cdn.jdshipin.com:8880/huya.php?id=21059577
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源1",战争电影
-https://live.ottiptv.cc/huya/21059574
+http://cdn.jdshipin.com:8880/huya.php?id=21059574
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源1",枪战电影
-https://live.ottiptv.cc/huya/21059579
+http://cdn.jdshipin.com:8880/huya.php?id=21059579
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png"  group-title="点播频道" tvg-name="频道_源1",宇宙科幻合集
-https://live.ottiptv.cc/huya/11342428
+http://cdn.jdshipin.com:8880/huya.php?id=11342428
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/猫和老鼠.png"  group-title="点播频道" tvg-name="频道_源1",猫和老鼠
 https://live.ottiptv.cc/huya/11352879
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/猫和老鼠.png"  group-title="点播频道" tvg-name="频道_源2",猫和老鼠
