@@ -452,7 +452,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png"  group-title="卫视频道" tvg-name="频道_源2",吉林卫视
 http://101.35.240.114:88/live.php?id=吉林卫视
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png"  group-title="卫视频道" tvg-name="频道_源3",吉林卫视
-http://www.wmviv.com/iptv/bc2t.php?id=jlws
+http://t.061899.xyz/tl/tl.php?id=jlws
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png"  group-title="卫视频道" tvg-name="频道_源4",吉林卫视
 http://118.81.195.79:9003/hls/34/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png"  group-title="卫视频道" tvg-name="频道_源5",吉林卫视
@@ -466,7 +466,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png"  group-title="卫视频道" tvg-name="频道_源2",海南卫视
 http://101.35.240.114:88/live.php?id=海南卫视
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png"  group-title="卫视频道" tvg-name="频道_源3",海南卫视
-http://www.wmviv.com/iptv/bc2t.php?id=hinws
+http://t.061899.xyz/tl/tl.php?id=hinws
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png"  group-title="卫视频道" tvg-name="频道_源4",海南卫视
 http://118.81.195.79:9003/hls/28/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png"  group-title="卫视频道" tvg-name="频道_源5",海南卫视
@@ -480,7 +480,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png"  group-title="卫视频道" tvg-name="频道_源2",广西卫视
 rtmp://live.gxrb.com.cn/hls/a23
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png"  group-title="卫视频道" tvg-name="频道_源3",广西卫视
-http://www.wmviv.com/iptv/bc2t.php?id=gxws
+http://t.061899.xyz/tl/tl.php?id=gxws
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png"  group-title="卫视频道" tvg-name="频道_源4",广西卫视
 http://118.81.195.79:9003/hls/27/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png"  group-title="卫视频道" tvg-name="频道_源5",广西卫视
@@ -590,7 +590,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png"  group-title="卫视频道" tvg-name="频道_源2",陕西卫视
 http://101.35.240.114:88/live.php?id=陕西卫视
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png"  group-title="卫视频道" tvg-name="频道_源3",陕西卫视
-http://www.wmviv.com/iptv/bc2t.php?id=sxws
+http://t.061899.xyz/tl/tl.php?id=sxws
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png"  group-title="卫视频道" tvg-name="频道_源4",陕西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png"  group-title="卫视频道" tvg-name="频道_源5",陕西卫视
@@ -604,7 +604,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png"  group-title="卫视频道" tvg-name="频道_源2",青海卫视
 http://101.35.240.114:88/live.php?id=青海卫视
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png"  group-title="卫视频道" tvg-name="频道_源3",青海卫视
-http://www.wmviv.com/iptv/bc2t.php?id=qhws
+http://t.061899.xyz/tl/tl.php?id=qhws
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png"  group-title="卫视频道" tvg-name="频道_源4",青海卫视
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png"  group-title="卫视频道" tvg-name="频道_源5",青海卫视
@@ -630,7 +630,7 @@ http://39.135.133.159/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/ind
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png"  group-title="卫视频道" tvg-name="频道_源1",云南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png"  group-title="卫视频道" tvg-name="频道_源2",云南卫视
-http://www.wmviv.com/iptv/bc2t.php?id=ynws
+http://t.061899.xyz/tl/tl.php?id=ynws
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png"  group-title="卫视频道" tvg-name="频道_源3",云南卫视
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png"  group-title="卫视频道" tvg-name="频道_源4",云南卫视
@@ -644,7 +644,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png"  group-title="卫视频道" tvg-name="频道_源2",贵州卫视
 http://101.35.240.114:88/live.php?id=贵州卫视
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png"  group-title="卫视频道" tvg-name="频道_源3",贵州卫视
-http://www.wmviv.com/iptv/bc2t.php?id=gzws
+http://t.061899.xyz/tl/tl.php?id=gzws
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png"  group-title="卫视频道" tvg-name="频道_源4",贵州卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png"  group-title="卫视频道" tvg-name="频道_源5",贵州卫视
@@ -654,7 +654,7 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png"  group-title="卫视频道" tvg-name="频道_源7",贵州卫视
 http://39.134.65.79/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/宁夏卫视.png" group-title="卫视频道" tvg-name="宁夏卫视_源1",宁夏卫视
-http://www.wmviv.com/iptv/bc2t.php?id=nxws
+http://t.061899.xyz/tl/tl.php?id=nxws
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/宁夏卫视.png" group-title="卫视频道" tvg-name="宁夏卫视_源2",宁夏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/宁夏卫视.png" group-title="卫视频道" tvg-name="宁夏卫视_源3",宁夏卫视
@@ -668,7 +668,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png"  group-title="卫视频道" tvg-name="频道_源2",甘肃卫视
 http://101.35.240.114:88/live.php?id=甘肃卫视
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png"  group-title="卫视频道" tvg-name="频道_源3",甘肃卫视
-http://www.wmviv.com/iptv/bc2t.php?id=gsws
+http://t.061899.xyz/tl/tl.php?id=gsws
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png"  group-title="卫视频道" tvg-name="频道_源4",甘肃卫视
 http://118.81.195.79:9003/hls/25/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png"  group-title="卫视频道" tvg-name="频道_源5",甘肃卫视
@@ -682,7 +682,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227557/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png"  group-title="卫视频道" tvg-name="频道_源2",内蒙古卫视
 http://101.35.240.114:88/live.php?id=内蒙古卫视
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png"  group-title="卫视频道" tvg-name="频道_源3",内蒙古卫视
-http://www.wmviv.com/iptv/bc2t.php?id=nmws
+http://t.061899.xyz/tl/tl.php?id=nmws
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png"  group-title="卫视频道" tvg-name="频道_源4",内蒙古卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png"  group-title="卫视频道" tvg-name="频道_源5",内蒙古卫视
@@ -696,7 +696,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png"  group-title="卫视频道" tvg-name="频道_源2",新疆卫视
 http://101.35.240.114:88/live.php?id=新疆卫视
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png"  group-title="卫视频道" tvg-name="频道_源3",新疆卫视
-http://www.wmviv.com/iptv/bc2t.php?id=xjws
+http://t.061899.xyz/tl/tl.php?id=xjws
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png"  group-title="卫视频道" tvg-name="频道_源4",新疆卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png"  group-title="卫视频道" tvg-name="频道_源5",新疆卫视
@@ -850,13 +850,13 @@ https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png"  group-title="点播频道" tvg-name="频道_源2",让子弹飞
 https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源1",封神榜
-https://live.ottiptv.cc/huya/29465849
+http://cdn.jdshipin.com:8880/huya.php?id=29465849
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源2",封神榜
 https://live.metshop.top/huya/29465849
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源3",封神榜
 http://1.94.31.214:35455/huya/29465849
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源1",西游记2
-https://live.ottiptv.cc/huya/29465859
+http://cdn.jdshipin.com:8880/huya.php?id=29465859
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源2",西游记2
 http://1.94.31.214:35455/huya/29465859
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源1",鹿鼎记
@@ -866,11 +866,11 @@ https://live.ottiptv.cc/yy/28265277
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源3",鹿鼎记
 http://1.94.31.214:35455/yy/28265277
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源1",寻秦记
-https://live.ottiptv.cc/huya/29465848
+http://cdn.jdshipin.com:8880/huya.php?id=29465848
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源2",寻秦记
 http://1.94.31.214:35455/huya/29465848
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源1",射雕英雄传
-https://live.ottiptv.cc/huya/23824164
+http://cdn.jdshipin.com:8880/huya.php?id=23824164
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源2",射雕英雄传
 https://live.metshop.top/huya/23824164
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源3",射雕英雄传
@@ -882,7 +882,7 @@ https://live.iill.top/huya/23865142
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/笑傲江湖.png"  group-title="点播频道" tvg-name="频道_源3",笑傲江湖
 http://1.94.31.214:35455/huya/26355790
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源1",鉴证实录
-https://live.ottiptv.cc/huya/23903183
+http://cdn.jdshipin.com:8880/huya.php?id=23903183
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png"  group-title="点播频道" tvg-name="频道_源2",鉴证实录
 http://1.94.31.214:35455/huya/23903183
 #EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/延禧攻略.png"  group-title="点播频道" tvg-name="频道_源1",延禧攻略
@@ -1031,7 +1031,7 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 http://mytvstream.net:8080/live/30550113/30550113/1818.m3u8
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="国际频道" tvg-name="Fox News_源2",Fox News
 https://tvpass.org/live/FoxNewsChannel/hd
-#EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png"  group-title="国际频道" tvg-name="频道_源1",CBS News 24/7 (720p)
+#EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png"  group-title="国际频道" tvg-name="频道_源1",CBS News 24/7 (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",CNN
 https://jmp2.uk/stvp-GBBD8000016N
@@ -1039,9 +1039,9 @@ https://jmp2.uk/stvp-GBBD8000016N
 https://jmp2.uk/sam-GBBD8000016N.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源3",CNN
 https://jmp2.uk/sam-GBBD8000016N.m3u8
-#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png"  group-title="国际频道" tvg-name="频道_源1",NBA TV (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png"  group-title="国际频道" tvg-name="频道_源1",NBA TV (1080p) [Geo-blocked]
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png"  group-title="国际频道" tvg-name="频道_源2",NBA TV (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png"  group-title="国际频道" tvg-name="频道_源2",NBA TV (1080p) [Geo-blocked]
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="国际频道" tvg-name="Disney XD_源1",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
