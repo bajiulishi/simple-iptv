@@ -939,7 +939,7 @@ http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="国际频道" tvg-name="Discovery Channel_源2",Discovery Channel
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=""  group-title="国际频道" tvg-name="频道_源1",True History Channel
+#EXTINF:-1 tvg-id="" tvg-logo=""  group-title="国际频道" tvg-name="频道_源1",True History Channel (720p)
 https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",韩国BBS
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
