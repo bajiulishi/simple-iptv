@@ -858,13 +858,15 @@ https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-id="CGTN阿语" group-title="国际频道" tvg-name="CGTN阿语_源4",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",BBC News
-https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png"  group-title="国际频道" tvg-name="频道_源1",Fox News Channel (720p) [Not 24/7]
+#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",FOX News
+http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1611.ts
+#EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",FOX News
 https://tvpass.org/live/FoxNewsChannel/hd
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",BBC News
-https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",BBC News
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源3",BBC News
@@ -893,6 +895,8 @@ http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 http://84.54.128.52:9090/play/3006/index.m3u8
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="国际频道" tvg-name="Disney XD_源4",Disney XD
 http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
+#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=""  group-title="国际频道" tvg-name="频道_源1",Unleashed by DOGTV (1080p)
 https://amg26269-amg26269c2-distrotv-us-8939.playouts.now.amagi.tv/playlist/amg26269-dogtv-unleashedbydogtv-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="GameShowNetwork.us@East" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg"  group-title="国际频道" tvg-name="频道_源1",Game Show Network East (720p) [Not 24/7]
