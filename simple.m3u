@@ -866,7 +866,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",FOX News
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1611.ts
+http://41.205.93.154/FOX-NEWS/index.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",FOX News
 https://tvpass.org/live/FoxNewsChannel/hd
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",BBC News
