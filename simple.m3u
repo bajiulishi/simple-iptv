@@ -862,7 +862,7 @@ https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-id="CGTN阿语" group-title="国际频道" tvg-name="CGTN阿语_源4",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",BBC News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+http://lordstreams.live:80/Alicia42/1915991510/277175
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",FOX News
@@ -870,7 +870,7 @@ http://41.205.93.154/FOX-NEWS/index.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",FOX News
 https://tvpass.org/live/FoxNewsChannel/hd
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",BBC News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+http://lordstreams.live:80/Alicia42/1915991510/277175
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",BBC News
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源3",BBC News
@@ -878,7 +878,7 @@ https://mumt03.tangotv.in/1SNEWS/index.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源4",BBC News
 http://aktv-stream.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",CNN
-https://jmp2.uk/stvp-GBBD8000016N
+http://lordstreams.live:80/Alicia42/1915991510/277193
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",CNN
 https://jmp2.uk/sam-GBBD8000016N.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源3",CNN
