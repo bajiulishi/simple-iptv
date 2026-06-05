@@ -52,7 +52,7 @@ http://101.35.240.114:88/live.php?id=CCTV5
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png"  group-title="央视频道" tvg-name="频道_源3",CCTV5
 http://101.35.240.114:88/live.php?id=CCTV5
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png"  group-title="央视频道" tvg-name="频道_源4",CCTV5
-http://74.91.26.218:82/live/cctv5hd.m3u8
+http://192.151.150.154/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png"  group-title="央视频道" tvg-name="频道_源5",CCTV5
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png"  group-title="央视频道" tvg-name="频道_源6",CCTV5
