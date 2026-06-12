@@ -62,7 +62,7 @@ http://101.35.240.114:88/live.php?id=CCTV6
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png"  group-title="央视频道" tvg-name="频道_源3",CCTV6
 http://101.35.240.114:88/live.php?id=CCTV6
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png"  group-title="央视频道" tvg-name="频道_源4",CCTV6
-http://198.204.240.250:82/live/cctv6.m3u8
+http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png"  group-title="央视频道" tvg-name="频道_源5",CCTV6
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png"  group-title="央视频道" tvg-name="频道_源6",CCTV6
@@ -860,7 +860,7 @@ https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",BBC News
 http://lordstreams.live:80/Alicia42/1915991510/277195
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",BBC News
-https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",FOX News
 http://41.205.93.154/FOX-NEWS/index.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",FOX News
