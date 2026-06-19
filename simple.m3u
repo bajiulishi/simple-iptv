@@ -572,12 +572,10 @@ http://101.35.240.114:88/live.php?id=安徽卫视
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png"  group-title="卫视频道" tvg-name="频道_源3",安徽卫视
 http://iptv.huuc.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png"  group-title="卫视频道" tvg-name="频道_源4",安徽卫视
-http://118.81.195.79:9003/hls/21/index.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png"  group-title="卫视频道" tvg-name="频道_源5",安徽卫视
 https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=1
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png"  group-title="卫视频道" tvg-name="频道_源6",安徽卫视
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png"  group-title="卫视频道" tvg-name="频道_源5",安徽卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png"  group-title="卫视频道" tvg-name="频道_源7",安徽卫视
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png"  group-title="卫视频道" tvg-name="频道_源6",安徽卫视
 http://39.135.133.159/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png"  group-title="卫视频道" tvg-name="频道_源1",云南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8
@@ -864,7 +862,7 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",FOX News
 http://41.205.93.154/FOX-NEWS/index.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",FOX News
-http://41.205.93.154/FOX-NEWS/index.m3u8
+http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",BBC News
 http://lordstreams.live:80/Alicia42/1915991510/277195
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",BBC News
