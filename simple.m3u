@@ -856,15 +856,13 @@ https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-id="CGTN阿语" group-title="国际频道" tvg-name="CGTN阿语_源4",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",BBC News
-http://lordstreams.live:80/Alicia42/1915991510/277195
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",FOX News
-http://41.205.93.154/FOX-NEWS/index.m3u8
-#EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",FOX News
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png"  group-title="国际频道" tvg-name="频道_源1",Fox News Channel (720p)
 http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",BBC News
-http://lordstreams.live:80/Alicia42/1915991510/277195
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",BBC News
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源3",BBC News
@@ -872,7 +870,7 @@ https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源4",BBC News
 http://aktv-stream.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",CNN
-http://lordstreams.live:80/Alicia42/1915991510/277193
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",CNN
 https://jmp2.uk/sam-GBBD8000016N.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源3",CNN
