@@ -700,6 +700,8 @@ rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳台频道" tvg-name="TVB Plus_源1",TVB Plus
 http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳台频道" tvg-name="TVB Plus_源2",TVB Plus
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳台频道" tvg-name="TVB Plus_源3",TVB Plus
 https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/BLTV.png" group-title="港澳台频道" tvg-name="人间卫视_源1",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
