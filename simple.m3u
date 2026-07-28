@@ -888,7 +888,7 @@ https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",Disney International
 http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",Disney International
-http://84.54.128.52:9090/play/3006/index.m3u8
+http://167.250.126.140:7777/DISNEY-HD/index.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源3",Disney International
 http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 #EXTINF:-1 tvg-id="DogTV.us@SD" tvg-logo="https://i.imgur.com/dRKis0F.png"  group-title="国际频道" tvg-name="频道_源1",Dog TV (720p)
