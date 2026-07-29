@@ -862,7 +862,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",BBC News
 https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png"  group-title="国际频道" tvg-name="频道_源1",Fox News Channel (720p)
-http://41.205.77.102/FOX-NEWS/index.m3u8
+http://45.190.28.50/FOX_NEWS/index.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",BBC News
@@ -888,7 +888,7 @@ https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",Disney International
 http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",Disney International
-http://167.250.126.140:7777/DISNEY-HD/index.m3u8
+http://88.212.15.19/live/test_disney/playlist.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源3",Disney International
 http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 #EXTINF:-1 tvg-id="DogTV.us@SD" tvg-logo="https://i.imgur.com/dRKis0F.png"  group-title="国际频道" tvg-name="频道_源1",Dog TV (720p)
