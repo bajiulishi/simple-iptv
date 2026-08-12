@@ -558,7 +558,7 @@ http://101.35.240.114:88/live.php?id=青海卫视
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png"  group-title="卫视频道" tvg-name="频道_源3",青海卫视
 http://t.061899.xyz/tl/tl.php?id=qhws
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png"  group-title="卫视频道" tvg-name="频道_源4",青海卫视
-http://live.geermurmt.com/qhws/sd/live.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png"  group-title="卫视频道" tvg-name="频道_源5",青海卫视
 http://198.204.228.26/live/qhws.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png"  group-title="卫视频道" tvg-name="频道_源6",青海卫视
@@ -862,7 +862,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",BBC News
 https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png"  group-title="国际频道" tvg-name="频道_源1",Fox News Channel (720p)
-http://45.190.28.50/FOX_NEWS/index.m3u8
+http://40.160.24.56/FOX_NEWS_SD/index.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源1",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1  group-title="国际频道" tvg-name="频道_源2",BBC News
@@ -893,8 +893,8 @@ http://88.212.15.19/live/test_disney/playlist.m3u8
 http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 #EXTINF:-1 tvg-id="DogTV.us@SD" tvg-logo="https://i.imgur.com/dRKis0F.png"  group-title="国际频道" tvg-name="频道_源1",Dog TV (720p)
 http://46.151.196.223:14382
-#EXTINF:-1 tvg-id="GameShowNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png"  group-title="国际频道" tvg-name="频道_源1",Game Show Network (1080p)
-https://gpuserver3.tier1streams.com/GSN/index.m3u8
+#EXTINF:-1 tvg-id="GameShowNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png"  group-title="国际频道" tvg-name="频道_源1",Game Show Network East (720p) [Not 24/7]
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="AsharqDiscovery.sa@SD" tvg-logo="https://i.imgur.com/Czxi7yk.png"  group-title="国际频道" tvg-name="频道_源1",Asharq Discovery (1080p)
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="MTVLive.us@SD" tvg-logo="https://i.imgur.com/3UByLqb.png"  group-title="国际频道" tvg-name="频道_源1",MTV Live (1080p)
@@ -911,5 +911,3 @@ http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us@SD" tvg-logo="https://i.imgur.com/61eV77C.png"  group-title="宗教频道" tvg-name="频道_源1",Christian Youth Channel (CYC) (1080p)
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVIslam.ch@SD" tvg-logo="https://i.ibb.co/LSJqLJw/RTV-LOGO.png"  group-title="宗教频道" tvg-name="频道_源1",RTV Islam (1080p)
-https://protokolldns.xyz/rtvislamweb554/index.m3u8
