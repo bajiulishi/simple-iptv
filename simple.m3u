@@ -891,3 +891,5 @@ http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us@SD" tvg-logo="https://i.imgur.com/61eV77C.png"  group-title="宗教频道" tvg-name="频道_源1",Christian Youth Channel (CYC) (1080p)
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVIslam.ch@SD" tvg-logo="https://i.ibb.co/LSJqLJw/RTV-LOGO.png"  group-title="宗教频道" tvg-name="频道_源1",RTV Islam (720p)
+http://5.254.89.106/8714/index.m3u8
