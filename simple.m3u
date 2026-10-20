@@ -847,6 +847,8 @@ https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
 #EXTINF:-1 tvg-id="CNDFilmDiscoveryChannel.cn@SD" tvg-logo="https://i.imgur.com/2FJfPDx.png"  group-title="国际频道" tvg-name="频道_源1",CND Film Discovery Channel (576p)
 http://125.210.152.18:9090/live/FXZL_750.m3u8
+#EXTINF:-1 tvg-id="DiscoveryLife.pl@SD" tvg-logo="https://i.imgur.com/aMCoSWI.png"  group-title="国际频道" tvg-name="频道_源1",Discovery Life SD (576i)
+http://57.128.231.171:8080/280/index.m3u8
 #EXTINF:-1 tvg-id="AsharqDiscovery.sa@SD" tvg-logo="https://i.imgur.com/Czxi7yk.png"  group-title="国际频道" tvg-name="频道_源1",Asharq Discovery (1080p)
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="MTVLive.us@SD" tvg-logo="https://i.imgur.com/3UByLqb.png"  group-title="国际频道" tvg-name="频道_源1",MTV Live (720p)
